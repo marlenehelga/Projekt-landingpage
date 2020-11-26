@@ -1,0 +1,198 @@
+h2, h3 {
+    font-family: 'Oswald', sans-serif
+    
+}
+
+p {
+    font-family: 'Noto Serif';
+}
+
+
+.overmenuen {
+    width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+    width: 100%;
+    height: 40px;
+    margin-left: 0px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+nav li {
+    float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 18px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 65px;
+  }   
+
+
+
+nav li:first-child {
+border-left: none;}
+
+
+.container-all {
+    background-color:#F3EFE4;
+    display: flex;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: -18px;
+
+}
+
+.container-1 {
+    margin-left: 40px;
+}
+
+.box-1 {
+    text-align: center;
+    font-size: 25px;
+   
+    
+
+
+}
+
+.box-2 {
+    width: 70%;
+    text-align: left;
+    line-height: 170%;
+    
+}
+
+.box-3 {
+    width: 70%;
+    text-align: left;   
+    line-height: 170%;
+    margin-top: 70px;
+}
+
+
+.box-link {
+    margin-top: 30px;
+    margin-left: 140px;
+}
+.verdensmål {
+    width:250px;
+    height:250px;
+    margin-left: 195px;
+    margin-top: 30px;
+}
+
+
+
+.container-2 {
+margin-top: 65px;
+margin-right: 40px;
+}
+
+
+.container-3 {
+    margin-top: 70px;
+}
+
+
+.container-3 ul {
+    list-style-type: none;
+    padding: 0px;
+    width: 100%;
+    margin-left: 0px;
+    display: flex;   
+}
+
+.container-3 li {
+    padding: 14px 18px;
+    text-align: center;
+}
+
+
+.bøger {
+    width: 220px;
+    height:300px;
+    margin-left: 5.5px;
+}
+
+.tilbud {
+    text-align: center;
+    font-size: 27px;
+}
+
+.gælder {
+    text-align: center;
+}
+
+
+span {
+    font-weight: bolder;
+}
+
+
+.container-4 {
+    background-color: #F3EFE4;
+    padding: 35px;
+    margin-top:60px;
+}
+.fordele{
+    display: block;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+
+    
+}
+
+
+.container-5 {
+    
+}
+
+.ombogogideoverskrift {
+    margin-left: 40px;
+}
+
+.ombogogidetekst {
+    margin-left: 40px;
+    line-height: 150%;
+}
+
+.container-6 {
+    display: flex;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #F3EFE4;
+}
+
+
+.marianne {
+    margin-right: 130px;
+    border-radius: 60%;
+
+}
+
+.boglogo {
+    width:250px;
+    height:250px;
+    margin-top: 57px;
+    margin-right: 40px;
+}
+.udtalelse {
+    width: 72%;
+    text-align: left;
+    line-height: 150%;
+    margin-left: 40px;
+    line-height: 150%;
+}
+
+   
